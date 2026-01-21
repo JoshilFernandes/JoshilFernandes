@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I’m Joshil 👋
+
+Data Science graduate based in Berlin, interested in solving real problems with data.
+
+## What I work with
+- Python, SQL
+- Pandas, NumPy, scikit-learn
+- Tableau, Power BI
+- AWS, GCP
+
+
+## What I’m looking for
+- Entry-level / Internship roles in Data Science, Analytics, or Data Engineering
+
+📫 Reach me:
+- LinkedIn: www.linkedin.com/in/joshil-fernandes
+- Email: joshilfernandes@gmail.com
+
