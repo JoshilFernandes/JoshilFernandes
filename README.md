@@ -5,8 +5,7 @@ appears on your GitHub profile.
 
 ### Hey, I’m Joshil 👋
 
-Data Science graduate based in Berlin, interested in turning messy data into clear,
-practical insights.
+Data Science graduate based in Berlin.
 
 ##
 
