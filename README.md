@@ -1,31 +1,28 @@
-<!--
-**joshil-fernandes/joshil-fernandes** is a ✨ special ✨ repository because its README.md
-appears on your GitHub profile.
--->
+<!-- JoshilFernandes/JoshilFernandes is a special repository: its README.md appears on your GitHub profile. -->
 
-### Hey, I’m Joshil 👋
+### Hey, I'm Joshil 👋
+AI Automation Engineer building agentic systems that automate real operational work, not demos. M.Sc. Data Science · B.E. Computer Science · Berlin
 
-Data Science graduate based in Berlin.
+### What I build
+Agents that retrieve, decide, and act: RAG pipelines, tool-calling agents, workflow automation (n8n), and production-shaped ML systems (feature stores, streaming, MLOps).
 
-##
+### Featured projects
 
-<div>
-  <h3>Main Technologies</h3>
+**netops-agent** — LangGraph agentic incident triage for network ops: RAG over runbooks, live telemetry tool calls, automated ticket routing.
 
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/> <img height="30" 
-                                                                                                                                                                                                                                                                                                                                        src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"/> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
+**AI-Voice-Receptionist** — Multilingual voice AI receptionist (n8n + Vapi + Claude) handling bookings for local businesses end-to-end.
 
+**fraud-detection-feature-store** — Real-time fraud detection on a Feast feature store + Kafka streaming, sub-10ms online inference via FastAPI.
 
-</div>
+**RAG-Global-News-Agent** — Natural-language query agent over GDELT event data, routing between structured and FAISS semantic search.
 
-##
+**codelens-ai** — AI code review assistant (LangChain + Groq + Streamlit).
 
-<div>
-  <h3>Contact</h3>
-  <a href="www.linkedin.com/in/joshil-fernandes-56849841b" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="30" />
-  </a>
-  <a href="mailto:joshilfernandes@gmail.com">
-    <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" height="30" />
-  </a>
-</div>
+**churn-mlops-project** — Reproducible training to served API, with MLflow tracking, Docker, and CI.
+
+### Main technologies
+Python · LangChain · LangGraph · n8n · FastAPI · Docker · Kafka · Feast · MLflow · Azure Databricks · Snowflake · PostgreSQL · AWS · GCP
+
+### Contact
+LinkedIn: https://www.linkedin.com/in/joshil-fernandes-56849841b
+Email: joshilfernandes@gmail.com
