@@ -1,28 +1,54 @@
-<!-- JoshilFernandes/JoshilFernandes is a special repository: its README.md appears on your GitHub profile. -->
+# Hey, I'm Joshil 👋
 
-### Hey, I'm Joshil 👋
-AI Automation Engineer building agentic systems that automate real operational work, not demos. M.Sc. Data Science · B.E. Computer Science · Berlin
+**AI Automation Engineer | Data Scientist | Builder**
 
-### What I build
-Agents that retrieve, decide, and act: RAG pipelines, tool-calling agents, workflow automation (n8n), and production-shaped ML systems (feature stores, streaming, MLOps).
+I build **AI agents, automation workflows, and ML systems** that solve real-world problems.
 
-### Featured projects
+📍 Berlin, Germany · 🎓 M.Sc. Data Science
 
-**netops-agent** — LangGraph agentic incident triage for network ops: RAG over runbooks, live telemetry tool calls, automated ticket routing.
+---
 
-**AI-Voice-Receptionist** — Multilingual voice AI receptionist (n8n + Vapi + Claude) handling bookings for local businesses end-to-end.
+### 🧠 What I Work On
 
-**fraud-detection-feature-store** — Real-time fraud detection on a Feast feature store + Kafka streaming, sub-10ms online inference via FastAPI.
+`AI Agents` · `RAG` · `LLMs` · `AI Automation` · `Machine Learning` · `MLOps`
 
-**RAG-Global-News-Agent** — Natural-language query agent over GDELT event data, routing between structured and FAISS semantic search.
+---
 
-**codelens-ai** — AI code review assistant (LangChain + Groq + Streamlit).
+### 🚀 Featured Projects
 
-**churn-mlops-project** — Reproducible training to served API, with MLflow tracking, Docker, and CI.
+**🤖 NetOps Agent**
+Agentic incident-triage system using **LangGraph + RAG + live telemetry**.
 
-### Main technologies
-Python · LangChain · LangGraph · n8n · FastAPI · Docker · Kafka · Feast · MLflow · Azure Databricks · Snowflake · PostgreSQL · AWS · GCP
+**📞 AI Voice Receptionist**
+Multilingual AI receptionist for businesses using **Vapi + Claude + n8n**.
 
-### Contact
-LinkedIn: https://www.linkedin.com/in/joshil-fernandes-56849841b
-Email: joshilfernandes@gmail.com
+**💳 Real-Time Fraud Detection**
+Streaming fraud detection with **Kafka + Feast + FastAPI**.
+
+**🌍 RAG Global News Agent**
+Natural-language research agent combining **SQL + FAISS semantic search** over GDELT data.
+
+**🔍 CodeLens AI**
+AI-powered code review assistant using **LangChain + Groq**.
+
+---
+
+### 🛠️ Tech Stack
+
+**AI / LLMs**
+Python · LangChain · LangGraph · Claude · RAG · FAISS
+
+**Data / ML**
+Pandas · Scikit-learn · Kafka · Feast · MLflow
+
+**Engineering**
+FastAPI · Docker · PostgreSQL · AWS · GCP · n8n
+
+---
+
+### 📫 Connect
+
+**LinkedIn:** [Joshil Fernandes](https://www.linkedin.com/in/joshil-fernandes-56849841)
+**Email:** [joshilfernandes@gmail.com](mailto:joshilfernandes@gmail.com)
+
+> *Building intelligent systems that actually do things.*
